@@ -20,4 +20,5 @@ I love learn new skills and improve them on some technologies, like :
 
 ## You can find me here ⬇️
 
-[LinkedIn](https://www.linkedin.com/in/lucas-huerta13/) [GitHub](https://github.com/Lucas-Huerta)
+[LinkedIn](https://www.linkedin.com/in/lucas-huerta13/) 
+[GitHub](https://github.com/Lucas-Huerta)
