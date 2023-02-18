@@ -8,19 +8,16 @@ I'm a fullstack developper based in Paris and student at [Hetic](https://www.het
 
 I love learn new skills and improve them on some technologies, like :
 
-* HTML
-* CSS
+* HTML / CSS
 * JavaScript
 * VueJs
 * Three Js 
 * TypeScript 
 * Node Js
+* Postgre SQL
 
 ⚡️
 
------------------
+# You can find me here ⬇️
 
-## You can find me here ⬇️
-
-- [LinkedIn](https://www.linkedin.com/in/lucas-huerta13/)
-- [GitHub](https://github.com/Lucas-Huerta)
+[LinkedIn](https://www.linkedin.com/in/lucas-huerta13/) [GitHub](https://github.com/Lucas-Huerta)
