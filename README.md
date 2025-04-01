@@ -8,15 +8,16 @@ I'm a fullstack developper 💻 based in Paris and student at [IIM](https://www.
 
 I love learn new skills and improve them on some technologies, like :
 
-- JavaScript
-- VueJs
-- NuxtJs
+- Next Js
 - TypeScript
-- NextJs
+- NuxtJs
 - NodeJs
 - Express
 - BunJs
 - Prisma
+- Docker
+
+& many other details in working methods 👨‍💻
 
 ⚡️
 
