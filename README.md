@@ -10,10 +10,11 @@ I love learn new skills and improve them on some technologies, like :
 
 - Next Js
 - TypeScript
-- NuxtJs
-- NodeJs
+- Nuxt Js
+- Node Js
 - Express
-- BunJs
+- Bun Js
+- Nest Js
 - Prisma
 - Docker
 
